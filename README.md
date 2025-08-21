@@ -41,3 +41,22 @@ Print all results in a clear way as True/False only.
 Display a welcome message using an f-string that shows the fixed username and the password length.
 
 ---
+
+## ⚡ Exercise‏ :
+
+This program demonstrates how to use Python lists with different operations:
+
+- Create a list of your 5 favourite fruits.
+
+- Print the whole list.
+
+- Print the first and last elements of the list.
+
+- Change the second item in the list to "Mango".
+
+- Insert "Watermelon" at index 2.
+
+- Ask the user to enter a fruit name and check if it exists in the list.
+
+- Sort the list alphabetically.
+
