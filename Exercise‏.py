@@ -6,10 +6,11 @@ print("Last fruit:", fruits[-1])
 fruits[1] = "Mango"
 fruits.insert(2, "Watermelon")
 
-user_fruit = input("\insert a fruit name to check: ")
-print(user_fruit, "exists in the list?", user_fruit in fruits)
+user = input("\insert a fruit name to check: ")
+print(user, "exists in the list?", user in fruits)
 
 fruits.sort()
 print("\nSorted Fruits List:", fruits)
+
 
 
