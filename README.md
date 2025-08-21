@@ -15,7 +15,7 @@ This program asks the user to enter a username and a password, then applies diff
 
 🔧 Features
 
-#### String Methods:
+#### 🔹 String Methods:
 
 Convert the username to lowercase.
 
@@ -25,7 +25,7 @@ Find the length of the password.
 
 Print all results clearly on the terminal.
 
-#### Boolean Expressions:
+#### 🔹Boolean Expressions:
 
 Check if the password length is greater than or equal to 8.
 
@@ -37,7 +37,7 @@ Check if it’s a default account → (username is "admin" and password is "1234
 
 Print all results in a clear way as True/False only.
 
-#### Final Output:
+#### 🔹Final Output:
 Display a welcome message using an f-string that shows the fixed username and the password length.
 
 ---
