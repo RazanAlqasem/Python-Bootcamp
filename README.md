@@ -60,3 +60,15 @@ This program demonstrates how to use Python lists with different operations:
 
 - Sort the list alphabetically.
 
+---
+
+## ⚡ Task 4 :
+
+A simple program that stores fruit prices using a dictionary.
+The user enters the name of a fruit, and the program will:
+
+If the fruit exists → print its price.
+
+If the fruit doesn’t exist → print:
+Sorry, this fruit is not available.
+
